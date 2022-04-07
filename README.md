@@ -1,7 +1,7 @@
 # Power-BI
 -------------------------------------------------------------------------------------
 
--> Faça Download do repositório
+-> Faça Download do repositório ( ->Code, ->Download Zip )
 
 -> Abra o arquivo "Projeto PowerBI.pbix" utilizando o Power BI
 
